@@ -43,6 +43,25 @@
     --tab-color: var(--black) !important;
     --border-color: greenyellow !important;
   }
+  .zacharius-special {
+    --background-primary: #000 !important;
+    --background-lighter: #000 !important;
+    --navbar-color: #000 !important;
+    --navbar-height: 60px !important;
+    --navbar-text-color: #008080 !important;
+    --navbar-link-color: #008080 !important;
+    --navbar-link-hover-color: #006969 !important;
+    --navbar-font: "Roboto" !important;
+    --input-text-color: #008080 !important;
+    --input-placeholder-color: #009797 !important;
+    --input-background-color: #000 !important;
+    --input-border-color: #008080 !important;
+    --input-border-size: 1.3px !important;
+    --navbar-logo-filter: none !important;
+    --dropdown-option-hover-color: #000 !important;
+    --tab-color: var(--black) !important;
+    --border-color: #008080 !important;
+  }
   .catppuccin-mocha {
     --background-primary: #1e1e2e !important;
     --background-lighter: #181825 !important;
