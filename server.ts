@@ -107,7 +107,7 @@ console.log(
   chalk.magenta(`Server also listening on ${chalk.bold("http://0.0.0.0:8080")}`)
 );
 
-//app.listen({
-  //port: 8080,
-  //host: "0.0.0.0"
-//});
+app.listen({
+  port: 8080,
+  host: "0.0.0.0"
+});
