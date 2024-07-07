@@ -3,6 +3,7 @@ import { useContext, useEffect, useState } from "preact/hooks";
 type Theme =
   | "main"
   | "hacker"
+  | "zacharius-special"
   | "catppuccin-mocha"
   | "catppuccin-macchiato"
   | "catppuccin-frappe"
@@ -10,6 +11,7 @@ type Theme =
 const themes: Theme[] = [
   "main",
   "hacker",
+  "zacharius-special",
   "catppuccin-mocha",
   "catppuccin-macchiato",
   "catppuccin-frappe",
